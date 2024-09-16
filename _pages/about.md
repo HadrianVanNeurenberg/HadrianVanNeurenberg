@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor (<i>adiunkt</i>) at the <a href="https://konstytucja.wpia.uw.edu.pl/">Chair of Constitutional Law</a>, [Faculty of Law and Administration](https://wpia.uw.edu.pl/pl) of the [University of Warsaw](https://www.uw.edu.pl/).
+subtitle: Assistant Professor (<i>adiunkt</i>) at the <a href="https://konstytucja.wpia.uw.edu.pl/">Chair of Constitutional Law</a>, <a href="https://wpia.uw.edu.pl/pl">Faculty of Law and Administration</a> of the <a href="https://www.uw.edu.pl/">University of Warsaw</a>.
 
 profile:
   align: right
