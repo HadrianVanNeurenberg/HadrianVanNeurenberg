@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor (<i>adiunkt</i>) at the <a href="https://konstytucja.wpia.uw.edu.pl/">Chair of Constitutional Law</a>, <a href="https://wpia.uw.edu.pl/pl">Faculty of Law and Administration</a> of the <a href="https://www.uw.edu.pl/">University of Warsaw</a>.
+subtitle: Assistant Professor <i>(adiunkt)</i> at the <a href="https://konstytucja.wpia.uw.edu.pl/">Chair of Constitutional Law</a>, <a href="https://wpia.uw.edu.pl/pl">Faculty of Law and Administration</a> of the <a href="https://www.uw.edu.pl/">University of Warsaw</a>.
 Adress: <a href="https://maps.app.goo.gl/QUW9qQfT6ibFtsiE8"> Collegium Iuridicum I (Office no. 415), Krakowskie Przedmieście 26/28, 00-927 Warsaw, Poland.</a>
 
 profile:
